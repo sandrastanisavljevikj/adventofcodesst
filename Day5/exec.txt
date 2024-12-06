@@ -1,0 +1,202 @@
+no rules for element 65
+
+no rules for element 75
+
+no rules for element 25
+
+no rules for element 91
+
+no rules for element 71
+
+no rules for element 66
+
+no rules for element 89
+
+no rules for element 54
+
+no rules for element 42
+
+no rules for element 51
+
+no rules for element 33
+
+no rules for element 82
+
+no rules for element 29
+
+no rules for element 88
+
+no rules for element 35
+
+no rules for element 11
+
+no rules for element 29
+
+no rules for element 89
+
+no rules for element 93
+
+no rules for element 81
+
+no rules for element 89
+
+no rules for element 35
+
+no rules for element 45
+
+no rules for element 16
+
+no rules for element 13
+
+no rules for element 46
+
+no rules for element 46
+
+no rules for element 46
+
+no rules for element 91
+
+no rules for element 17
+
+no rules for element 67
+
+no rules for element 42
+
+no rules for element 82
+
+no rules for element 12
+
+no rules for element 87
+
+no rules for element 91
+
+no rules for element 64
+
+no rules for element 53
+
+no rules for element 65
+
+no rules for element 96
+
+no rules for element 43
+
+no rules for element 17
+
+no rules for element 81
+
+no rules for element 92
+
+no rules for element 54
+
+no rules for element 41
+
+no rules for element 12
+
+no rules for element 65
+
+no rules for element 55
+
+no rules for element 54
+
+no rules for element 55
+
+no rules for element 18
+
+no rules for element 91
+
+no rules for element 64
+
+no rules for element 82
+
+no rules for element 35
+
+no rules for element 12
+
+no rules for element 96
+
+no rules for element 16
+
+no rules for element 21
+
+no rules for element 33
+
+no rules for element 17
+
+no rules for element 98
+
+no rules for element 71
+
+no rules for element 64
+
+no rules for element 65
+
+no rules for element 15
+
+no rules for element 11
+
+no rules for element 93
+
+no rules for element 87
+
+no rules for element 99
+
+no rules for element 78
+
+no rules for element 25
+
+no rules for element 29
+
+no rules for element 88
+
+no rules for element 59
+
+no rules for element 57
+
+no rules for element 17
+
+no rules for element 22
+
+no rules for element 33
+
+no rules for element 83
+
+no rules for element 96
+
+no rules for element 98
+
+no rules for element 88
+
+no rules for element 92
+
+no rules for element 51
+
+no rules for element 21
+
+no rules for element 66
+
+no rules for element 87
+
+no rules for element 43
+
+no rules for element 54
+
+no rules for element 51
+
+no rules for element 99
+
+no rules for element 37
+
+no rules for element 45
+
+no rules for element 22
+
+no rules for element 67
+
+no rules for element 83
+
+no rules for element 78
+
+no rules for element 95
+
+FirstResult: 5588
+SecondResult: 0
